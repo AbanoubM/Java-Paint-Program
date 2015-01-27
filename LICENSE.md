@@ -1,6 +1,6 @@
-The MIT License (MIT)
+#The MIT License (MIT)
 
-Copyright (c) [2013] [Abanoub Milad Nassief] [abanoubcs@gmail.com]
+##Copyright (c) [2014] [Abanoub Milad Nassief] [abanoubcs@gmail.com]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
