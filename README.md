@@ -28,12 +28,12 @@ The concept of dynamic class loading is widely spread in computer applications. 
 
 #####Sample Runs
 
-![](sample_runs/s1.png?raw=true)
-![](sample_runs/s2.png?raw=true)
-![](sample_runs/s3.png?raw=true)
-![](sample_runs/s4.png?raw=true)
-![](sample_runs/s5.png?raw=true)
-![](sample_runs/s6.png?raw=true)
-![](sample_runs/s7.png?raw=true)
-![](sample_runs/s8.png?raw=true)
-![](sample_runs/s9.png?raw=true)
+![](sample_runs/s1.jpg?raw=true)
+![](sample_runs/s2.jpg?raw=true)
+![](sample_runs/s3.jpg?raw=true)
+![](sample_runs/s4.jpg?raw=true)
+![](sample_runs/s5.jpg?raw=true)
+![](sample_runs/s6.jpg?raw=true)
+![](sample_runs/s7.jpg?raw=true)
+![](sample_runs/s8.jpg?raw=true)
+![](sample_runs/s9.jpg?raw=true)
