@@ -1,4 +1,4 @@
-#Object Oriented Drawing and Painting Application
+﻿#Object Oriented Drawing and Painting Application
 
 #####Copyright (c) [2014] [Abanoub Milad Nassief] [abanoubcs@gmail.com]
 
@@ -26,7 +26,7 @@ The concept of dynamic class loading is widely spread in computer applications. 
 4. Provide an option to load previously saved drawings and modify the shapes.
 5. User can choose where to save the file.
 
-#####Sample Runs
+##Sample Runs
 
 ![](sample_runs/s1.jpg?raw=true)
 ![](sample_runs/s2.jpg?raw=true)
